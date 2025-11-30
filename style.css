@@ -91,6 +91,9 @@ header h1 {
 
 /* ---- MAIN ---- */
 
+body {
+	background-color: #eee;
+}
 .header {
 	text-align: left;
 	margin-left: 40rem;
@@ -142,7 +145,6 @@ header h1 {
 	position: relative;
 	top: 7rem;
 	text-align: center;
-	color: #000;
 	white-space: normal;
 }
 .department.disabled h3 {
