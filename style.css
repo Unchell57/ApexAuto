@@ -149,6 +149,7 @@ body {
 	top: 7rem;
 	text-align: center;
 	white-space: normal;
+	color: #000;
 }
 .department.disabled h3 {
 	font-style: italic;
